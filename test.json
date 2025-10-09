@@ -23692,16 +23692,6 @@
                       "disType": "hole",
                       "depth": 10,
                       "through": "否",
-                      "x": 0,
-                      "y": -9,
-                      "b": 90,
-                      "stdY": null,
-                      "r": 149
-                    },
-                    {
-                      "disType": "hole",
-                      "depth": 10,
-                      "through": "否",
                       "x": -149,
                       "y": 140,
                       "b": 90,
