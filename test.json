@@ -34422,7 +34422,6 @@
                     {
                       "disType": "hole",
                       "depth": 10,
-                      "through": "否",
                       "x": -149,
                       "y": 988,
                       "b": 90,
@@ -34432,7 +34431,6 @@
                     {
                       "disType": "hole",
                       "depth": 10,
-                      "through": "否",
                       "x": 0,
                       "y": 1137,
                       "b": 90,
@@ -34442,7 +34440,6 @@
                     {
                       "disType": "hole",
                       "depth": 10,
-                      "through": "否",
                       "x": 149,
                       "y": 988,
                       "b": 90,
@@ -34452,7 +34449,6 @@
                     {
                       "disType": "hole",
                       "depth": 10,
-                      "through": "否",
                       "x": 0,
                       "y": 839,
                       "b": 90,
@@ -34464,7 +34460,6 @@
                     {
                       "disType": "rect",
                       "depth": 10,
-                      "through": "否",
                       "x": -149,
                       "y": -988,
                       "stdY": null
@@ -34472,7 +34467,6 @@
                     {
                       "disType": "rect",
                       "depth": 10,
-                      "through": "否",
                       "x": -149,
                       "y": 988,
                       "stdY": null
@@ -34480,7 +34474,6 @@
                     {
                       "disType": "rect",
                       "depth": 10,
-                      "through": "否",
                       "x": 149,
                       "y": 988,
                       "stdY": null
@@ -34488,7 +34481,6 @@
                     {
                       "disType": "rect",
                       "depth": 10,
-                      "through": "否",
                       "x": 149,
                       "y": -988,
                       "stdY": null
@@ -34498,7 +34490,6 @@
                     {
                       "disType": "hole",
                       "depth": 10,
-                      "through": "否",
                       "x": -149,
                       "y": -988,
                       "b": 90,
@@ -34508,7 +34499,6 @@
                     {
                       "disType": "hole",
                       "depth": 10,
-                      "through": "否",
                       "x": 0,
                       "y": -839,
                       "b": 90,
@@ -34518,7 +34508,6 @@
                     {
                       "disType": "hole",
                       "depth": 10,
-                      "through": "否",
                       "x": 149,
                       "y": -988,
                       "b": 90,
@@ -34528,7 +34517,6 @@
                     {
                       "disType": "hole",
                       "depth": 10,
-                      "through": "否",
                       "x": 0,
                       "y": -1137,
                       "b": 90,
