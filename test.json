@@ -2978,8 +2978,14 @@
                 "bottom": "top"
               },
               "inclinedHandle": "斜封边拉手",
-              "inclinedEdgeLength": {},
-              "inclinedEdgeNums": {},
+              "inclinedEdgeLength": { "1.5": 580 },
+              "inclinedEdgeNums": { "inclinedHandle": { "1.5": 1 } },
+              "inclinedEdgeLength2": {
+                "1.5": { "public9.jpg": 580 }
+              },
+              "inclinedEdgeNums2": {
+                "inclinedHandle": { "1.5": { "public9.jpg": 1 } }
+              },
               "matCode": "多层实木",
               "handleMat": "shortHandle1",
               "handleType": "",
