@@ -1639,7 +1639,17 @@
               "texImg": "T01",
               "textureId": "public9.jpg",
               "texImgUrl": "colors/1586850355905.jpg",
-
+              "clipInfo": [
+                {
+                  "shape": [
+                    { "x": 19, "y": 1499, "z": 618 },
+                    { "x": 19, "y": 1499, "z": 600 },
+                    { "x": 19, "y": 1481, "z": 600 }
+                  ],
+                  "dir": 0,
+                  "depth": 580
+                }
+              ],
               "oriWidth": 0.58,
               "oriHeight": 1.498,
               "oriDepth": 0.018,
@@ -1669,8 +1679,14 @@
                 "bottom": "top"
               },
               "inclinedHandle": "斜封边拉手",
-              "inclinedEdgeLength": {},
-              "inclinedEdgeNums": {},
+              "inclinedEdgeLength": { "1.5": 580 },
+              "inclinedEdgeNums": { "inclinedHandle": { "1.5": 1 } },
+              "inclinedEdgeLength2": {
+                "1.5": { "public9.jpg": 580 }
+              },
+              "inclinedEdgeNums2": {
+                "inclinedHandle": { "1.5": { "public9.jpg": 1 } }
+              },
               "matCode": "多层实木",
               "handleMat": "shortHandle1",
               "handleType": "",
@@ -3071,7 +3087,17 @@
               "texImg": "T01",
               "textureId": "public9.jpg",
               "texImgUrl": "colors/1586850355905.jpg",
-
+              "clipInfo": [
+                {
+                  "shape": [
+                    { "x": 601, "y": 1499, "z": 618 },
+                    { "x": 601, "y": 1499, "z": 600 },
+                    { "x": 601, "y": 1481, "z": 600 }
+                  ],
+                  "dir": 0,
+                  "depth": 580
+                }
+              ],
               "oriWidth": 0.58,
               "oriHeight": 1.498,
               "oriDepth": 0.018,
