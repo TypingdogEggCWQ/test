@@ -3071,17 +3071,7 @@
               "texImg": "T01",
               "textureId": "public9.jpg",
               "texImgUrl": "colors/1586850355905.jpg",
-              "clipInfo": [
-                {
-                  "shape": [
-                    { "x": 601, "y": 1499, "z": 618 },
-                    { "x": 601, "y": 1499, "z": 600 },
-                    { "x": 601, "y": 1481, "z": 600 }
-                  ],
-                  "dir": 0,
-                  "depth": 580
-                }
-              ],
+
               "oriWidth": 0.58,
               "oriHeight": 1.498,
               "oriDepth": 0.018,
