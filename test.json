@@ -952,78 +952,6 @@
                   "colorUniqueId": "old_T01"
                 },
                 {
-                  "partName": "板式槽",
-                  "typeName": "normal",
-                  "texName": "",
-                  "vertices": [
-                    "0,0.006,0",
-                    "0,0.006,-0.002",
-                    "0,0,-0.002",
-                    "0,0,0",
-                    "0.58,0.006,0",
-                    "0.58,0.006,-0.002",
-                    "0.58,0,-0.002",
-                    "0.58,0,0"
-                  ],
-                  "anchor": "0,1.492,0",
-                  "normalWorld": "",
-                  "openway": "",
-                  "doorStyle": "",
-                  "axis": "Z",
-                  "width": 0.58,
-                  "height": 0.006,
-                  "depth": 0.002,
-                  "children": [],
-                  "partsChildren": [],
-                  "name": "板式槽",
-                  "amount": 1,
-                  "roomIndex": 4,
-                  "wardrobeIndex": 9,
-                  "extraParts": "[]",
-                  "hDir": "X",
-                  "vDir": "Y",
-                  "dDir": "Z",
-                  "matCode": "",
-                  "coord": "0_1_2",
-                  "actualImg": ":/texture/colors/purple.png",
-                  "texImg": "T01",
-                  "textureId": "mat_plank_holePurple",
-                  "texImgUrl": "colors/1586850355905.jpg",
-                  "parentName": "SingleDoor",
-                  "oriWidth": 0.58,
-                  "oriHeight": 0.006,
-                  "oriDepth": 0.002,
-                  "slotInfo": {
-                    "width": 6,
-                    "deep": 2,
-                    "slotType": "normalSlot",
-                    "rotate": {
-                      "flag": false,
-                      "matrix": {
-                        "m11": 1,
-                        "m12": 0,
-                        "m13": 0,
-                        "m14": 0,
-                        "m21": 0,
-                        "m22": 1,
-                        "m23": 0,
-                        "m24": 0,
-                        "m31": 0,
-                        "m32": 0,
-                        "m33": 1,
-                        "m34": 0,
-                        "m41": 0,
-                        "m42": 0,
-                        "m43": 0,
-                        "m44": 1
-                      }
-                    },
-                    "dir": 2,
-                    "symbol": "CSlot"
-                  },
-                  "colorUniqueId": "old_T01"
-                },
-                {
                   "partName": "Handle",
                   "typeName": "normal",
                   "texName": "",
@@ -1679,14 +1607,8 @@
                 "bottom": "top"
               },
               "inclinedHandle": "斜封边拉手",
-              "inclinedEdgeLength": { "1.5": 580 },
-              "inclinedEdgeNums": { "inclinedHandle": { "1.5": 1 } },
-              "inclinedEdgeLength2": {
-                "1.5": { "public9.jpg": 580 }
-              },
-              "inclinedEdgeNums2": {
-                "inclinedHandle": { "1.5": { "public9.jpg": 1 } }
-              },
+              "inclinedEdgeLength": {},
+              "inclinedEdgeNums": {},
               "matCode": "多层实木",
               "handleMat": "shortHandle1",
               "handleType": "",
@@ -2378,78 +2300,6 @@
                   "colorUniqueId": "old_T01"
                 },
                 {
-                  "partName": "板式槽",
-                  "typeName": "normal",
-                  "texName": "",
-                  "vertices": [
-                    "0,0.006,0",
-                    "0,0.006,-0.002",
-                    "0,0,-0.002",
-                    "0,0,0",
-                    "0.58,0.006,0",
-                    "0.58,0.006,-0.002",
-                    "0.58,0,-0.002",
-                    "0.58,0,0"
-                  ],
-                  "anchor": "0,1.492,0",
-                  "normalWorld": "",
-                  "openway": "",
-                  "doorStyle": "",
-                  "axis": "Z",
-                  "width": 0.58,
-                  "height": 0.006,
-                  "depth": 0.002,
-                  "children": [],
-                  "partsChildren": [],
-                  "name": "板式槽",
-                  "amount": 1,
-                  "roomIndex": 4,
-                  "wardrobeIndex": 9,
-                  "extraParts": "[]",
-                  "hDir": "X",
-                  "vDir": "Y",
-                  "dDir": "Z",
-                  "matCode": "",
-                  "coord": "0_1_2",
-                  "actualImg": ":/texture/colors/purple.png",
-                  "texImg": "T01",
-                  "textureId": "mat_plank_holePurple",
-                  "texImgUrl": "colors/1586850355905.jpg",
-                  "parentName": "SingleDoor",
-                  "oriWidth": 0.58,
-                  "oriHeight": 0.006,
-                  "oriDepth": 0.002,
-                  "slotInfo": {
-                    "width": 6,
-                    "deep": 2,
-                    "slotType": "normalSlot",
-                    "rotate": {
-                      "flag": false,
-                      "matrix": {
-                        "m11": 1,
-                        "m12": 0,
-                        "m13": 0,
-                        "m14": 0,
-                        "m21": 0,
-                        "m22": 1,
-                        "m23": 0,
-                        "m24": 0,
-                        "m31": 0,
-                        "m32": 0,
-                        "m33": 1,
-                        "m34": 0,
-                        "m41": 0,
-                        "m42": 0,
-                        "m43": 0,
-                        "m44": 1
-                      }
-                    },
-                    "dir": 2,
-                    "symbol": "CSlot"
-                  },
-                  "colorUniqueId": "old_T01"
-                },
-                {
                   "partName": "Handle",
                   "typeName": "normal",
                   "texName": "",
@@ -2515,7 +2365,6 @@
                   "sysModelCoord": "4_0_2",
                   "handlePosition": "top",
                   "handleStyle": "斜封边拉手",
-                  "referPlank": 5,
                   "handleVersion": "2.0",
                   "handleColor": "mat_yellow",
                   "actualImg": ":/texture/colors/Yellow.png",
@@ -3105,18 +2954,6 @@
               "isProduce": true,
               "polyEdgeWidth": "0",
               "isFrontPlank": true,
-              "handleSlopes": [
-                {
-                  "symbol": "inclinedHandle",
-                  "deep": 18,
-                  "side": 1,
-                  "pt1": { "x": 290, "y": 749 },
-                  "pt2": { "x": -290, "y": 749 },
-                  "opt1": { "x": 290, "y": 749 },
-                  "opt2": { "x": -290, "y": 749 },
-                  "knife": "T1"
-                }
-              ],
               "objSize": "577*1495*18",
               "spec": "580*1498*18",
               "edgeLengthInfo": { "1.5": 4156 },
@@ -3126,15 +2963,6 @@
                 "right": "right",
                 "top": "bottom",
                 "bottom": "top"
-              },
-              "inclinedHandle": "斜封边拉手",
-              "inclinedEdgeLength": { "1.5": 580 },
-              "inclinedEdgeNums": { "inclinedHandle": { "1.5": 1 } },
-              "inclinedEdgeLength2": {
-                "1.5": { "public9.jpg": 580 }
-              },
-              "inclinedEdgeNums2": {
-                "inclinedHandle": { "1.5": { "public9.jpg": 1 } }
               },
               "matCode": "多层实木",
               "handleMat": "shortHandle1",
