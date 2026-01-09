@@ -2365,6 +2365,7 @@
                   "sysModelCoord": "4_0_2",
                   "handlePosition": "top",
                   "handleStyle": "斜封边拉手",
+                  "referPlank": 5,
                   "handleVersion": "2.0",
                   "handleColor": "mat_yellow",
                   "actualImg": ":/texture/colors/Yellow.png",
