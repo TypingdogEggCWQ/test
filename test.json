@@ -1656,7 +1656,18 @@
               "isProduce": true,
               "polyEdgeWidth": "0",
               "isFrontPlank": true,
-
+              "handleSlopes": [
+                {
+                  "symbol": "inclinedHandle",
+                  "deep": 18,
+                  "side": 1,
+                  "pt1": { "x": 290, "y": 749 },
+                  "pt2": { "x": -290, "y": 749 },
+                  "opt1": { "x": 290, "y": 749 },
+                  "opt2": { "x": -290, "y": 749 },
+                  "knife": "T1"
+                }
+              ],
               "objSize": "577*1495*18",
               "spec": "580*1498*18",
               "edgeLengthInfo": { "1.5": 4156 },
@@ -3097,9 +3108,6 @@
                 "top": "bottom",
                 "bottom": "top"
               },
-              "inclinedHandle": "斜封边拉手",
-              "inclinedEdgeLength": {},
-              "inclinedEdgeNums": {},
               "matCode": "多层实木",
               "handleMat": "shortHandle1",
               "handleType": "",
