@@ -2535,7 +2535,10 @@
               "roomIndex": 4,
               "wardrobeIndex": 9,
               "process_label": {
-                "auto_label": [{ "hingeName": "默认铰链" }],
+                "auto_label": [
+                  { "hingeName": "默认铰链" },
+                  { "freeHandle": "斜封边拉手" }
+                ],
                 "custom_label": []
               },
               "guid": "I95270006953286c",
